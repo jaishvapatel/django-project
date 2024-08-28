@@ -3,7 +3,7 @@ This is an open-source school management system API developed using Django and t
 
 
 # Quick Install
-You should have at least basic django and django-rest framework experience to run django-scms. We test only in PostgreSQL database.
+You should have at least basic django and django-rest framework experience to run django-project. We test only in PostgreSQL database.
 
 ### Create a virtual environment
 
